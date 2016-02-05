@@ -1,0 +1,14 @@
+--- !ruby/object:Game
+secret: !ruby/object:Word
+  word:
+  - d
+  - e
+  - v
+  - i
+  - s
+  - e
+  - r
+correct_guesses: 2
+incorrect_guesses: 3
+incorrect_letters: 'a, a, b, '
+current_view: _e___e_
